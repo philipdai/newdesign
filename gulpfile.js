@@ -23,7 +23,7 @@ var config = {
 var src = {
 	html: 'src/**/*.html',
 	jslibs: 'src/jslibs/**',
-	csslibs: 'src/csslibs/**',
+	csslibs: 'src/csslibs/**/*.css',
 	css:'src/css/**',
 	scripts: {
 		all: 'src/scripts/**/*.js',

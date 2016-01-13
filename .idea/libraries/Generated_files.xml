@@ -3,11 +3,16 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/app/app-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/arrify/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/array-union/index-compiled.js" />
+        <item url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/is-path-cwd/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/array-union/node_modules/array-uniq/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/is-path-in-cwd/index-compiled.js" />
@@ -16,9 +21,7 @@
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/pinkie-promise/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/src/jslibs/angular.min-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/object-assign/index-compiled.js" />
-        <item url="file://$PROJECT_DIR$/dist/app/app-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/is-path-in-cwd/node_modules/is-path-inside/node_modules/path-is-inside/lib/path-is-inside-compiled.js" />
-        <item url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/pinkie-promise/node_modules/pinkie/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/date-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/race-compiled.js" />
@@ -30,15 +33,12 @@
         <item url="file://$PROJECT_DIR$/src/app/components/home/home-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/map-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/set-compiled.js" />
-        <item url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/math-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/subclass-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/promises-es6-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/promises-aplus-compiled.js" />
-        <item url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/evil-promises-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/object-compiled.js" />
-        <item url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/node_modules/pify/index-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/es6-shim/test/number-compiled.js" />
         <item url="file://$PROJECT_DIR$/node_modules/del/index-compiled.js" />
@@ -169,11 +169,16 @@
       <root url="file://$PROJECT_DIR$/dist/app-compiled.js" />
       <root url="file://$PROJECT_DIR$/dist/app-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/concat-map/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/test/balanced-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/example-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/glob/node_modules/minimatch/node_modules/brace-expansion/node_modules/balanced-match/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/app/app-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/arrify/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/array-union/index-compiled.js" />
+      <root url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/is-path-cwd/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/globby/node_modules/array-union/node_modules/array-uniq/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/is-path-in-cwd/index-compiled.js" />
@@ -182,9 +187,7 @@
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/pinkie-promise/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/src/jslibs/angular.min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/object-assign/index-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dist/app/app-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/is-path-in-cwd/node_modules/is-path-inside/node_modules/path-is-inside/lib/path-is-inside-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/pinkie-promise/node_modules/pinkie/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/date-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/race-compiled.js" />
@@ -196,15 +199,12 @@
       <root url="file://$PROJECT_DIR$/src/app/components/home/home-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/map-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/set-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/math-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/subclass-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/promises-es6-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/promises-aplus-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dist/jslibs/angular-route.min-compiled-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/promise/evil-promises-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/object-compiled.js" />
-      <root url="file://$PROJECT_DIR$/dist/jslibs/angular.min-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/node_modules/pify/index-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/es6-shim/test/number-compiled.js" />
       <root url="file://$PROJECT_DIR$/node_modules/del/index-compiled.js" />
